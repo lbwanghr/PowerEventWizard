@@ -1,5 +1,7 @@
 # Scheduled Startup Wizard
-Welcome to the support page for Scheduled Startup Wizard. You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
+Welcome to the support page for Scheduled Startup Wizard.  
+There is a demo [video]() to introduce the usage of this app.
+You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
 
 ## Introduction
 Scheduled Startup was once a useful feature provided by MacOS Monterey and earlier systems. However, after upgrading to the latest system, this setting page can no longer be found.
