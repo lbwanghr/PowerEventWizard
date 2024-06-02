@@ -1,7 +1,6 @@
 # Scheduled Startup Wizard
 Welcome to the support page for Scheduled Startup Wizard.  
 There is a demo [video](https://www.youtube.com/watch?v=Nyu5Rkiboco) to introduce the usage of this app.
-You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
 
 ## Introduction
 Scheduled Startup was once a useful feature provided by MacOS Monterey and earlier systems. However, after upgrading to the latest system, this setting page can no longer be found.
@@ -16,4 +15,5 @@ This app provides the terminal command based on your settings, and you just need
 This app is based on the native command **pmset**, if you read the manual, you will find there are only two group of events can be set. One contains **wake** and **wakeorpoweron** and another contains **shutdown**, **restart** and **sleep**.  
 Only **one** command can take effect in **each** group.
 
-
+---
+You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
