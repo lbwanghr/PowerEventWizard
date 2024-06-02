@@ -1,6 +1,6 @@
 # Scheduled Startup Wizard
 Welcome to the support page for Scheduled Startup Wizard.  
-There is a demo [video]() to introduce the usage of this app.
+There is a demo [video](https://www.youtube.com/watch?v=Nyu5Rkiboco) to introduce the usage of this app.
 You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
 
 ## Introduction
