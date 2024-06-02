@@ -9,6 +9,7 @@ Apple Support suggests you use Terminal to manage this setting. You can learn mo
 This app provides the terminal command based on your settings, and you just need to paste it into the Terminal and execute it. Then you can return to the main page of this app to view the power events set on your mac.
 
 ## FAQ
-Q: Why can I only set two events at most? Can I set more?
-A: This app is based on the native command *pmset*, if you have read the manual, you will find there are only two group of events can be set. One contains *wake* and *wakeorpoweron* and another contains *shutdown*, *restart* and *sleep*.  
+
+### Why can I only set two events at most? Can I set more?  
+This app is based on the native command *pmset*, if you have read the manual, you will find there are only two group of events can be set. One contains *wake* and *wakeorpoweron* and another contains *shutdown*, *restart* and *sleep*.  
 Only *one* command can take effect in each group.
