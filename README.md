@@ -13,7 +13,7 @@ This app provides the terminal command based on your settings, and you just need
 ## FAQ
 
 ### Why can I only set two events at most? Can I set more?  
-This app is based on the native command **pmset**, if you read the manual, you will find there are only two group of events can be set. One contains **wake** and **wakeorpoweron** and another contains **shutdown**, **restart** and **sleep**.  
+This app is based on the native command **pmset**, if you read the manual, you will find there are only two group of events can be set. One contains **wake** and **wakeorpoweron** while another contains **shutdown**, **restart** and **sleep**.  
 Only **one** command can take effect in **each** group.
 
 ---
