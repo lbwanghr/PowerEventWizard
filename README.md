@@ -1,7 +1,7 @@
 # Scheduled Startup Wizard
 Welcome to the support page for Scheduled Startup Wizard.  
 
-Please watch this [video](https://www.youtube.com/watch?v=Nyu5Rkiboco) to learn the usage of this app, and try on this [testflight](https://testflight.apple.com/join/XfE2jsU8) page.
+Please watch this [video](https://www.youtube.com/watch?v=Nyu5Rkiboco) to learn the usage of this app, and try it on this [testflight](https://testflight.apple.com/join/XfE2jsU8) page.
 
 ## Introduction
 Scheduled Startup was once a useful feature provided by MacOS Monterey and earlier systems. However, after upgrading to the latest system, this setting page can no longer be found.
