@@ -1,5 +1,5 @@
 # Scheduled Startup Wizard
-Welcome to the support page for [Scheduled Startup Wizard]([https://apps.apple.com/cn/app/scheduled-startup-wizard](https://apps.apple.com/cn/app/scheduled-startup-wizard/id6503290654?mt=12)).  
+Welcome to the support page for [Scheduled Startup Wizard]([https://apps.apple.com/cn/app/scheduled-startup-wizard](https://apps.apple.com/cn/app/scheduled-startup-wizard/id6503290654?mt=12).  
 
 Please watch this [video](https://www.youtube.com/watch?v=Nyu5Rkiboco) to learn the usage of this app, and try it on this [testflight](https://testflight.apple.com/join/XfE2jsU8) page.
 
