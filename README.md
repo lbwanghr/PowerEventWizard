@@ -1,14 +1,14 @@
-# Scheduled Startup Wizard
-Welcome to the support page for [Scheduled Startup Wizard](https://apps.apple.com/cn/app/scheduled-startup-wizard/id6503290654?mt=12).  
+# Power Event Wizard
+Welcome to the support page for [Power Event Wizard](https://apps.apple.com/cn/app/scheduled-startup-wizard/id6503290654?mt=12).  
 
 Please watch this [video](https://www.youtube.com/watch?v=Nyu5Rkiboco) to learn the usage of this app, and try it on [TestFlight](https://testflight.apple.com/join/XfE2jsU8).
 
 ## Introduction
-Scheduled Startup was once a useful feature provided by MacOS Monterey and earlier systems. However, after upgrading to the latest system, this setting page can no longer be found.
+Power Event was once a useful feature provided by MacOS Monterey and earlier systems. However, after upgrading to the latest system, this setting page can no longer be found.
 
 Apple Support suggests you use Terminal to manage this setting. You can learn more from this [link](https://support.apple.com/guide/mac-help/schedule-your-mac-to-turn-on-or-off-mchl40376151/mac).
 
-This app provides the terminal command based on your settings, and you just need to paste it into the Terminal and execute it. Then you can return to the main page of this app to view the power events set on your mac.
+This app brings the feature back, and provides a page to view the power events set on your mac.
 
 ## FAQ
 
