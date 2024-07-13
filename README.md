@@ -16,5 +16,9 @@ This app brings the feature back, and provides a page to view the power events s
 This app is based on the native command **pmset**, if you read the manual, you will find there are only two group of events can be set. One contains **wake** and **wakeorpoweron** while another contains **shutdown**, **restart** and **sleep**.  
 Only **one** command can take effect in **each** group.
 
+### This app messed up my Login Items page, please help!
+You can reset your Login Items page with this command `sfltool resetbtm`.
+
+
 ---
 You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
