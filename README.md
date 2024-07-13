@@ -17,7 +17,8 @@ This app is based on the native command **pmset**, if you read the manual, you w
 Only **one** command can take effect in **each** group.
 
 ### This app messed up my Login Items page, please help!
-You can reset your Login Items page with this command `sfltool resetbtm`.
+You can reset your Login Items page with the following command in Terminal.  
+`sfltool resetbtm`
 
 
 ---
