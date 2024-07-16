@@ -20,6 +20,9 @@ Only **one** command can take effect in **each** group.
 You can reset your Login Items page with the following command in Terminal.  
 `sfltool resetbtm`
 
+### When it shows something like "shutdown at 10:00PM Some days", I want the exactly days!
+If you run `pmset -g sched` in Terminal, you will find this page shows expected result.  
+Certainly, this app could record what you have set, but if you or other apps rewrite the settings, it can't recongnize what happened.
 
 ---
 You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
