@@ -24,5 +24,9 @@ You can reset your Login Items page with the following command in Terminal.
 If you run `pmset -g sched` in Terminal, you will find this page shows expected result.  
 Certainly, this app could record what you have set in this app, but if you or other apps rewrite the system settings, this app can't recongnize what happened.
 
+### Inconsistent display like "12:00AM" on the Setting page but "00:00AM" on the Inspect page.
+It's also expected result, because **pmset** shows "12:00AM" as "0:00AM" and "12:00PM" as "12:00PM".   
+Generally speaking, there is no "0:00AM" or "0:00PM" in the 12-hour time format, but **pmset** has its own style.
+
 ---
 You can ask questions in Issues tab or email me directly at lbwanghr@icloud.com.
