@@ -1,7 +1,7 @@
 # Power Event Wizard
 Welcome to the support page for [Power Event Wizard](https://apps.apple.com/cn/app/scheduled-startup-wizard/id6503290654?mt=12).  
 
-Please watch this [video](https://youtu.be/Mh2bkcEp0tE) to learn the usage of this app, and try it on [TestFlight](https://testflight.apple.com/join/XfE2jsU8).
+Please watch this [video](https://youtu.be/Mh2bkcEp0tE) to learn the usage of this app.
 
 ## Introduction
 Power Event was once a useful feature provided by MacOS Monterey and earlier systems. However, after upgrading to the latest system, this setting page can no longer be found.
